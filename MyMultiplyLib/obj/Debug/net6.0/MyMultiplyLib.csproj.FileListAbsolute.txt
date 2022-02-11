@@ -1,0 +1,12 @@
+/Users/sakshipatel/Downloads/cs9dotnet5-master/Chapter04/MyMultiplyLib/obj/Debug/net6.0/MyMultiplyLib.csproj.AssemblyReference.cache
+/Users/sakshipatel/Downloads/cs9dotnet5-master/Chapter04/MyMultiplyLib/obj/Debug/net6.0/MyMultiplyLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakshipatel/Downloads/cs9dotnet5-master/Chapter04/MyMultiplyLib/obj/Debug/net6.0/MyMultiplyLib.AssemblyInfoInputs.cache
+/Users/sakshipatel/Downloads/cs9dotnet5-master/Chapter04/MyMultiplyLib/obj/Debug/net6.0/MyMultiplyLib.AssemblyInfo.cs
+/Users/sakshipatel/Downloads/cs9dotnet5-master/Chapter04/MyMultiplyLib/obj/Debug/net6.0/MyMultiplyLib.csproj.CoreCompileInputs.cache
+/Users/sakshipatel/Downloads/cs9dotnet5-master/Chapter04/MyMultiplyLib/bin/Debug/net6.0/MyMultiplyLib.deps.json
+/Users/sakshipatel/Downloads/cs9dotnet5-master/Chapter04/MyMultiplyLib/bin/Debug/net6.0/MyMultiplyLib.dll
+/Users/sakshipatel/Downloads/cs9dotnet5-master/Chapter04/MyMultiplyLib/bin/Debug/net6.0/ref/MyMultiplyLib.dll
+/Users/sakshipatel/Downloads/cs9dotnet5-master/Chapter04/MyMultiplyLib/bin/Debug/net6.0/MyMultiplyLib.pdb
+/Users/sakshipatel/Downloads/cs9dotnet5-master/Chapter04/MyMultiplyLib/obj/Debug/net6.0/MyMultiplyLib.dll
+/Users/sakshipatel/Downloads/cs9dotnet5-master/Chapter04/MyMultiplyLib/obj/Debug/net6.0/ref/MyMultiplyLib.dll
+/Users/sakshipatel/Downloads/cs9dotnet5-master/Chapter04/MyMultiplyLib/obj/Debug/net6.0/MyMultiplyLib.pdb
